@@ -1,0 +1,7 @@
+PlayMusic	0
+RateBook	1
+SearchCreativeWork	2
+SearchScreeningEvent	3
+AddToPlaylist	4
+BookRestaurant	5
+GetWeather	6
