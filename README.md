@@ -1,10 +1,19 @@
 # GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling
 
-This repository contains the official `PyTorch` implementation of the paper: [Libo Qin](http://ir.hit.edu.cn/~lbqin/), [Fuxuan Wei], [Tianbao Xie], [Xiao Xu](https://looperxx.github.io/), [Wanxiang Che](http://ir.hit.edu.cn/~car/chinese.htm), [Ting Liu](http://ir.hit.edu.cn/~liuting/).
+This repository contains the official `PyTorch` implementation of the paper: [Libo Qin](http://ir.hit.edu.cn/~lbqin/), [Fuxuan Wei](https://awake020.github.io/), [Tianbao Xie](https://tianbaoxie.com), [Xiao Xu](https://looperxx.github.io/), [Wanxiang Che](http://ir.hit.edu.cn/~car/chinese.htm), [Ting Liu](http://ir.hit.edu.cn/~liuting/).
 
 If you use any source codes or the datasets included in this toolkit in your work, please cite the following paper. The bibtex are listed below:
+<pre>
+@misc{qin2021glgin,
+      title={GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling}, 
+      author={Libo Qin and Fuxuan Wei and Tianbao Xie and Xiao Xu and Wanxiang Che and Ting Liu},
+      year={2021},
+      eprint={2106.01925},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+</pre>
 
-.....to be filled
 
 In the following, we will guide you how to use this repository step by step.
 
